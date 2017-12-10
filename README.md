@@ -47,4 +47,4 @@ For your project submission, please export your work into pdf files. This will e
 
 ---
 ## Report
-You can see my funtional safety project in result directory.
+You can see my funtional safety project in 'Result' directory.
